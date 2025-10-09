@@ -86,7 +86,7 @@ The goal is to:
    python -m venv venv
    source venv/bin/activate   # Mac/Linux
    venv\Scripts\activate      # Windows
-
+   ```bash
    pip install -r requirements.txt
 
 3. jupyter notebook Covid19.ipynb
